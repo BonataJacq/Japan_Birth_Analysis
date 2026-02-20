@@ -1,13 +1,13 @@
 # ==============================
 # Load Libraries
 # ==============================
-install.packages(c("tidyverse","janitor","skimr","corrplot","caret","randomForest"))
+install.packages(c("tidyverse","janitor","skimr","corrplot","caret"))
 library(tidyverse)
 library(janitor)
 library(skimr)
 library(corrplot)
 library(caret)
-library(randomForest)
+
 
 # ==============================
 # Load Data
