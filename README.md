@@ -46,4 +46,4 @@ colSums(is.na(df))
 # Structure & summary
 str(df)
 summary(df)
-skim(df)
+
